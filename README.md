@@ -22,3 +22,9 @@ process, and building the baseline of the environment.
 ## Labels
 
 _The full labeled dataset will be released with the publication of the article._
+
+## Supplementary material
+
+[supplementary-material.pdf](/supplementary-material.pdf)
+
+- **Appendix A**: Example of the ground truth labeling
