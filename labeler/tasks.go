@@ -64,6 +64,17 @@ var labelingSets = []LabelSet{
 			"Campaign day 3",
 		},
 	},
+	{
+		name: "Granularity",
+		options: []string{
+			"process",
+			"event",
+		},
+		labels: []string{
+			"Process",
+			"Event",
+		},
+	},
 }
 
 type LabelSet struct {
